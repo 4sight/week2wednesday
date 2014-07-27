@@ -1,6 +1,7 @@
 Homework - Week 2 - Monday
+
 Posted by Tim Whitacre 22 hours ago
-Tim Whitacre
+
 Create two branches of Surf and Paddle, one to convert your CSS to Sass and then one for your final Github Pages page.
 
 First:
